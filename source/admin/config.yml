@@ -4,8 +4,8 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 
-site_url: https://shwst.one
-display_url: https://shwst.one
+site_url: https://ywb-33.netlify.app
+display_url: https://ywb-33.netlify.app
 # logo_url: https://shwst.one/images/
 locale: 'cn'
 
